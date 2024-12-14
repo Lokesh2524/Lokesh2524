@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me M2 HOSTEL
-- 😄 Pronouns: loki
+- 😄 Pronouns: chinnu
 - ⚡ Fun fact: Nothing 
 
 <!---
